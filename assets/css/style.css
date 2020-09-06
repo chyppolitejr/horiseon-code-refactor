@@ -112,6 +112,40 @@ a {
     color: #ffffff;
 }
 
+/* 
+=================================
+aside styling section begins here 
+=================================
+*/
+
+.aside-benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+
+}
+
+
+.article-benefit-brand,
+.article-benefit-lead,
+.article-benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+
+.article-benefit-brand-img,
+.article-benefit-lead-img,
+.article-benefit-cost-img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
 
 
 .float-left {
