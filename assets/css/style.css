@@ -86,6 +86,19 @@ a {
     max-height: 200px;
 }
 
+/*  article image styling */
+.article-search-engine-optimization-img,
+.article-social-media-marketing-img
+{
+    float: left;
+    margin-right: 25px;
+}
+
+.article-online-reputation-management-img {
+    float: right;
+    margin-left: 25px;
+}
+
 
 .float-left {
     float: left;
