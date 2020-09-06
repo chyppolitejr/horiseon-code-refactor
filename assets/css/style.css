@@ -8,6 +8,7 @@
 
 body {
     background-color: #d9dcd6;
+    font-size: 16px;
 }
 
  /* =============
@@ -28,6 +29,9 @@ a {
     text-decoration: none;
 }
 
+/* ================ 
+    layout =======*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -44,7 +48,8 @@ a {
     color: #d9dcd6;
 }
 
-.header div {
+/* navigation menu */
+.nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -52,22 +57,11 @@ a {
     font-size: 20px;
 }
 
-.header div ul {
+/* navigation menu list item  */
+.nav-list-item{
     list-style-type: none;
-}
-
-.header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
