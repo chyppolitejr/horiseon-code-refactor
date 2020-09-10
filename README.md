@@ -11,6 +11,9 @@ Add assets folder and contents to root of web server
 this is a homework project for a full stack web development course called horiseon-code-refactor.
 >>>>>>> 17d126c4f030be7f72044412da62b447fcf0f151
 
+# Site URL
+https://chyppolitejr.github.io/horiseon-code-refactor/
+
 
 MIT License
 
